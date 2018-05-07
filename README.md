@@ -15,9 +15,15 @@
 
 # React concepts
 
+### Pure Components
+* [Pure Components and Immutable stuff](https://reactjs.org/docs/optimizing-performance.html#avoid-reconciliation)
+* [Какие props портят производительность (уроки коротыши)](https://www.youtube.com/watch?v=Pc3RKELjB-0)
+
 ### Context API
 * [Как работает новое React context API](https://www.youtube.com/watch?v=OjNEJqlDs0I)
 * [React Context in the World of Component Composition](https://medium.com/@ablamunits/react-context-in-the-world-of-component-composition-ce049d99afd9)
+* [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
+
 
 ### Project Structure
 * [How to structure your react app](https://itnext.io/how-to-structure-your-react-app-98c48e102aad)
@@ -25,3 +31,4 @@
 
 ### Patterns
 * [Шаблоны проектирования в React](https://habr.com/company/ruvds/blog/349198/)
+* [Writing Reusable React Components / Customisable Styling](https://itnext.io/writing-customizable-styled-react-components-51d38ed20461)
