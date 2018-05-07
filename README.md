@@ -34,3 +34,7 @@
 ### Patterns
 * [Шаблоны проектирования в React](https://habr.com/company/ruvds/blog/349198/)
 * [Writing Reusable React Components / Customisable Styling](https://itnext.io/writing-customizable-styled-react-components-51d38ed20461)
+
+### Libraries
+
+* [Recompose](https://github.com/acdlite/recompose)
