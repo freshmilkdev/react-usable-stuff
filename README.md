@@ -24,6 +24,8 @@
 * [React Context in the World of Component Composition](https://medium.com/@ablamunits/react-context-in-the-world-of-component-composition-ce049d99afd9)
 * [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
 
+### Higher-Order Components
+* [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
 
 ### Project Structure
 * [How to structure your react app](https://itnext.io/how-to-structure-your-react-app-98c48e102aad)
