@@ -13,7 +13,7 @@
 * [Reselect - библиотека селекторов для Redux](https://github.com/devSchacht/translations/tree/master/articles/reselect-selector-library-for-redux)
 
 
-#React concepts
+# React concepts
 
 ### Context API
 * [Как работает новое React context API](https://www.youtube.com/watch?v=OjNEJqlDs0I)
