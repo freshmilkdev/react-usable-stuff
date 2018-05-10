@@ -23,6 +23,7 @@
 * [Как работает новое React context API](https://www.youtube.com/watch?v=OjNEJqlDs0I)
 * [React Context in the World of Component Composition](https://medium.com/@ablamunits/react-context-in-the-world-of-component-composition-ce049d99afd9)
 * [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
+* [How To Master Advanced React Design Patterns: Context API](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-2-react-3c5662b997ab)
 
 ### Higher-Order Components
 * [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
